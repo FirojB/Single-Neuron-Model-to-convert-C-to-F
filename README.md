@@ -1,1 +1,1 @@
-# Single Neuron Traing Model to the ℃ to ℉
+# Single Neuron Trained Model to the ℃ to ℉

@@ -1,1 +1,1 @@
-# Single Neuron Trained Model to the ℃ to ℉
+# Single Neuron Trained Model to convert the ℃ to ℉
